@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "2960d0cd2e0e1b41",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa0e426c3df7271",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "politics/what-is-communism.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "815735f55a60d761",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb3b4849b2e2f143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "073924825b2d2071",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "abf3f7dadde9886d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "484e1a053c61d43f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "08de18b7282610d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c7e035324b1a5c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16a439575a3e00a1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "politics/what-is-communism.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "869fd4a6ab038644",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "politics/what-is-communism.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "126fa0a3203b4ac3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1f82de63b8a3cfe1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "politics/what-is-communism.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4fa0e426c3df7271",
+  "lastOpenFiles": [
+    "politics/what-is-communism.md",
+    "politics/communism.md",
+    "politics/communism-teachers.md",
+    "politics/what-is-communism-by-stalin.md",
+    "politics/what-is-communism-by-engels.md",
+    "devops/kubernetes-cluster-kind.md",
+    "devops/kubernetes.md",
+    "devops/kubernetes-commands.md",
+    "kind.md"
+  ]
+}

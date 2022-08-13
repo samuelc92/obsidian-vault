@@ -1,0 +1,1 @@
+Marxism is the science of the laws governing the development of nature and society, the science of the revolution of the oppressed and exploited masses, the science of the victory of socialism in all countries, the science of building a communism society.

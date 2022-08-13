@@ -1,0 +1,1 @@
+Engels, in 1847, drafted a booklet called "*The Principles of Communism*". In this he defined what communism is in the following very simple manner: **Communism is the doctrine of the prerequisites for the emancipation of the proletariat**.
