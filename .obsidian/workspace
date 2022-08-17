@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "politics/socio-economic-birth-of-marxism.md",
+            "file": "politics/books.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "politics/socio-economic-birth-of-marxism.md",
+                "file": "politics/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "politics/socio-economic-birth-of-marxism.md",
+                "file": "politics/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "politics/socio-economic-birth-of-marxism.md"
+                "file": "politics/books.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "073924825b2d2071",
+  "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
-    "politics/what-is-communism-by-stalin.md",
-    "politics/socio-economic-birth-of-marxism.md",
-    "politics/communism.md",
     "politics/communism-teachers.md",
+    "politics/communism.md",
+    "politics/books.md",
+    "politics/socio-economic-birth-of-marxism.md",
+    "politics/what-is-communism-by-stalin.md",
     "politics/what-is-communism.md",
     "politics/what-is-communism-by-engels.md",
     "devops/kubernetes-cluster-kind.md",
     "devops/kubernetes.md",
-    "devops/kubernetes-commands.md",
-    "kind.md"
+    "devops/kubernetes-commands.md"
   ]
 }
