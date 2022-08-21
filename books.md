@@ -1,0 +1,51 @@
+- Sapiens
+- 30 Days 
+- Thinking Fast & Slow 
+- The Compound Effect 
+- You're Too Good To Feel This Bad
+- Good Vibes Good Life 
+- How Not To Die 
+- Attached 
+- How to Develop Self Confidence & Influence People In Public Speaking 
+- The Magic of Thinking Big 
+- The 4 Hour Work Week
+- Essentialism
+- Why Has Nobody Told Me This Before? 
+- Don't Believe Everything You Think 
+- 101 Essays That Will Change The Way You Think 
+- The Richest Man In Babylon 
+- The First Minute 
+- $100 Startup 
+- Originals 
+- Give and Take 
+- 12 Rules for Life
+- Who Moved My Cheese? 
+- 5 Am Club 
+- Your Next Five Moves 
+- The Miracle Morning 
+- Steve Jobs 
+- Win Your Inner Battles 
+- The Organized Mind 
+- Atomic Habits
+- Think Again
+- Make Your Bed
+- Effortless
+- Getting Things Done
+- The E Myth Revisited
+- The Power of Your Subconscious Mind 
+- The Big Questions of Life 
+- On The Shortness of Life 
+- The Communication Book 
+- The One Thing 
+- Autobiography of A Yogi
+- Surrounded By Idiots
+- Deep Work
+- What Got You Here Won't Get You There
+- Hyper Focus
+- One Small Step Can Change Your Life
+- Tiny Habits
+- The Code of The Extraordinary Mind
+- Kaizen
+- What They Don't Teach You At Harvard Business School
+- The Most Important Thing
+- Nonviolent Communication
