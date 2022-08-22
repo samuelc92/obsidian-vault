@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "books.md",
+            "file": "front-end/ssr.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
+                "file": "front-end/ssr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books.md",
+                "file": "front-end/ssr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md"
+                "file": "front-end/ssr.md"
               }
             }
           }
@@ -128,12 +128,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fa0e426c3df7271",
+  "active": "073924825b2d2071",
   "lastOpenFiles": [
-    "politics/marxist-political-economy.md",
-    "books.md",
-    "politics/socialism.md",
     "devops/books.md",
+    "books.md",
+    "politics/marxist-political-economy.md",
+    "politics/socialism.md",
     "devops/links.md",
     "politics/three-sources-of-marxism.md",
     "politics/what-is-communism.md",

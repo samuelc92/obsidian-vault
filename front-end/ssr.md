@@ -1,0 +1,2 @@
+# Server Side Rendering
+It is a technique use to improve the JavaScript template render in the client. Instead of the client download the JavaScript bundle to be rendered, the HTML is rendered on the server and then provided to the front-end.
