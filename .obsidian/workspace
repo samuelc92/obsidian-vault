@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-structure/bfs.md",
+            "file": "data-structure/avl-tree.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/bfs.md",
+                "file": "data-structure/avl-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/bfs.md",
+                "file": "data-structure/avl-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/bfs.md"
+                "file": "data-structure/avl-tree.md"
               }
             }
           }
@@ -130,8 +130,8 @@
   },
   "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
-    "data-structure/dfs.md",
     "data-structure/bfs.md",
+    "data-structure/dfs.md",
     "front-end/ssr.md",
     "devops/books.md",
     "books.md",
