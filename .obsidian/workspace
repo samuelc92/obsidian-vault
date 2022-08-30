@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-structure/avl-tree.md",
+            "file": "data-structure/b-tree.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/avl-tree.md",
+                "file": "data-structure/b-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/avl-tree.md",
+                "file": "data-structure/b-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/avl-tree.md"
+                "file": "data-structure/b-tree.md"
               }
             }
           }
@@ -128,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fa0e426c3df7271",
+  "active": "073924825b2d2071",
   "lastOpenFiles": [
+    "data-structure/avl-tree.md",
     "data-structure/bfs.md",
     "data-structure/dfs.md",
     "front-end/ssr.md",
@@ -138,7 +139,6 @@
     "politics/marxist-political-economy.md",
     "politics/socialism.md",
     "devops/links.md",
-    "politics/three-sources-of-marxism.md",
-    "politics/what-is-communism.md"
+    "politics/three-sources-of-marxism.md"
   ]
 }
