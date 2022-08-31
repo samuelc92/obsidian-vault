@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-structure/trie.md",
+            "file": "data-structure/red-black-tree.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/trie.md",
+                "file": "data-structure/red-black-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/trie.md",
+                "file": "data-structure/red-black-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/trie.md"
+                "file": "data-structure/red-black-tree.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fa0e426c3df7271",
+  "active": "073924825b2d2071",
   "lastOpenFiles": [
-    "data-structure/b-tree.md",
     "data-structure/avl-tree.md",
+    "data-structure/b-tree.md",
+    "data-structure/trie.md",
     "data-structure/bfs.md",
     "data-structure/dfs.md",
     "front-end/ssr.md",
     "devops/books.md",
     "books.md",
     "politics/marxist-political-economy.md",
-    "politics/socialism.md",
-    "devops/links.md"
+    "politics/socialism.md"
   ]
 }
