@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-structure/red-black-tree.md",
+            "file": "functional/functional-programming-books.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/red-black-tree.md",
+                "file": "functional/functional-programming-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/red-black-tree.md",
+                "file": "functional/functional-programming-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/red-black-tree.md"
+                "file": "functional/functional-programming-books.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "073924825b2d2071",
   "lastOpenFiles": [
+    "design-patterns/state-pattern.md",
+    "data-structure/heap.md",
+    "data-structure/red-black-tree.md",
     "data-structure/avl-tree.md",
     "data-structure/b-tree.md",
     "data-structure/trie.md",
     "data-structure/bfs.md",
     "data-structure/dfs.md",
     "front-end/ssr.md",
-    "devops/books.md",
-    "books.md",
-    "politics/marxist-political-economy.md",
-    "politics/socialism.md"
+    "devops/books.md"
   ]
 }
