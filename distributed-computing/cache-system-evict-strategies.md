@@ -1,0 +1,3 @@
+- **FIFO(First in, First out):** The first element added to the queue is the first one to be evicted/removed;
+- **LRU(Least Recently Used):** The element that has not been used will be the first evicted/removed. It is necessary to have a way to update every time the element is touched. To control which element will be evicted we can use Double Linked List, where the first element is the one to be removed, and a HashMap which will map the element's key with its node in the List;
+- **LFU(Least Frequently Uses):** The element to be evicted/removed is the one was less visited. It is necessary to increase a counter every time the element is touched;

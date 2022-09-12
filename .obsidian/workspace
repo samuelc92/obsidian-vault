@@ -130,15 +130,15 @@
   },
   "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
-    "distributed-computing/write-back-cache.md",
+    "distributed-computing/cache-system-evict-strategies.md",
     "distributed-computing/caching-system.md",
+    "distributed-computing/write-back-cache.md",
     "distributed-computing/write-around-cache.md",
     "distributed-computing/write-through-cache.md",
     "functional/functional-programming-books.md",
     "design-patterns/state-pattern.md",
     "data-structure/heap.md",
     "data-structure/red-black-tree.md",
-    "data-structure/avl-tree.md",
-    "data-structure/b-tree.md"
+    "data-structure/avl-tree.md"
   ]
 }

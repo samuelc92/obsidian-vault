@@ -3,3 +3,6 @@ A cache has to be inherently of low latency, which means all cache data has to r
 - **[[write-through-cache]]**;
 - **[[write-around-cache]]**;
 - **[[write-back-cache]]**;
+
+
+As the cache uses the RAM to save its data, it has a limited space thus it needs to have a way to remove data when its capacity is full, amoung many techniques you can find some [[cache-system-evict-strategies]].
