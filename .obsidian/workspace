@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functional/functional-programming-books.md",
+            "file": "distributed-computing/caching-system.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/functional-programming-books.md",
+                "file": "distributed-computing/caching-system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/functional-programming-books.md",
+                "file": "distributed-computing/caching-system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/functional-programming-books.md"
+                "file": "distributed-computing/caching-system.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "073924825b2d2071",
+  "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
+    "distributed-computing/write-back-cache.md",
+    "distributed-computing/caching-system.md",
+    "distributed-computing/write-around-cache.md",
+    "distributed-computing/write-through-cache.md",
+    "functional/functional-programming-books.md",
     "design-patterns/state-pattern.md",
     "data-structure/heap.md",
     "data-structure/red-black-tree.md",
     "data-structure/avl-tree.md",
-    "data-structure/b-tree.md",
-    "data-structure/trie.md",
-    "data-structure/bfs.md",
-    "data-structure/dfs.md",
-    "front-end/ssr.md",
-    "devops/books.md"
+    "data-structure/b-tree.md"
   ]
 }

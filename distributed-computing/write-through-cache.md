@@ -1,0 +1,3 @@
+In this cache system the write operation is done both in the cache and in the Database, then the operation is considered success only if both write is done success.
+The downside of this system is that the latency of the write will be worst because of the both operations (write into the cache, write into the Database).
+On the other hand it is good for application that re-read the information quickly because it guarantee consistency.
