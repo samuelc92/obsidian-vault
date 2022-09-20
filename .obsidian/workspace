@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "data-structure/quick-sort.md",
+            "file": "database/articles.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "08de18b7282610d4",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/quick-sort.md",
+                "file": "database/articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/quick-sort.md",
+                "file": "database/articles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/quick-sort.md"
+                "file": "database/articles.md"
               }
             }
           }
@@ -129,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "606bbd62470732fc",
+  "active": "073924825b2d2071",
   "lastOpenFiles": [
+    "data-structure/quick-sort.md",
     "devops/books.md",
     "books.md",
     "distributed-computing/write-around-cache.md",
@@ -139,7 +139,6 @@
     "distributed-computing/write-back-cache.md",
     "distributed-computing/write-through-cache.md",
     "functional/functional-programming-books.md",
-    "design-patterns/state-pattern.md",
-    "data-structure/heap.md"
+    "design-patterns/state-pattern.md"
   ]
 }
