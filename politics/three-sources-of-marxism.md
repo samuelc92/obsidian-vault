@@ -1,1 +1,0 @@
-The three sources of Marxism - German philosophy, English political economy and French socialist theories - corresponded to the three main component parts of the new ideology: Marxist philosophy of dialectical materialism, Marxist political economy and Marxist theory of scientific socialism.  

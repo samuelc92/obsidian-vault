@@ -1,1 +1,0 @@
-Socialism is the necessary outcome of the struggle between two historically developed classes - the proletariat and the bourgeoisie.

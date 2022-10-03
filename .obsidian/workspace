@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "606bbd62470732fc",
+        "id": "4fa0e426c3df7271",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "front-end/cors.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/cors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/cors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "front-end/cors.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "073924825b2d2071",
   "lastOpenFiles": [
-    "database/articles.md",
-    "data-structure/quick-sort.md",
-    "devops/books.md",
-    "books.md",
-    "distributed-computing/write-around-cache.md",
-    "distributed-computing/cache-system-evict-strategies.md",
-    "distributed-computing/caching-system.md",
-    "distributed-computing/write-back-cache.md",
-    "distributed-computing/write-through-cache.md",
-    "functional/functional-programming-books.md"
+    "politics/socialism.md",
+    "politics/socio-economic-birth-of-marxism.md",
+    "politics/what-is-communism.md",
+    "politics/marxist-political-economy.md",
+    "politics/what-is-communism-by-stalin.md",
+    "politics/what-is-communism-by-engels.md",
+    "politics/three-sources-of-marxism.md",
+    "politics/communism-teachers.md",
+    "politics/communism.md",
+    "politics/books.md"
   ]
 }
