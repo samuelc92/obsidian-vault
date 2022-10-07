@@ -1,1 +1,2 @@
 - Thinking with Types: Type-Level Programming in Haskell ([Thinking with Types: Type-Level Programming in Haskell](https://thinkingwithtypes.com/));
+- Learn You a Haskell for Great Good!

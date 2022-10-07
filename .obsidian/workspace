@@ -7,8 +7,12 @@
         "id": "4fa0e426c3df7271",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "functional/functors.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "functional/functors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "functional/functors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "functional/functors.md"
+              }
             }
           }
         ]
@@ -122,6 +130,8 @@
   },
   "active": "073924825b2d2071",
   "lastOpenFiles": [
+    "functional/functional-programming-books.md",
+    "politics/books.md",
     "politics/socialism.md",
     "politics/socio-economic-birth-of-marxism.md",
     "politics/what-is-communism.md",
@@ -129,8 +139,6 @@
     "politics/what-is-communism-by-stalin.md",
     "politics/what-is-communism-by-engels.md",
     "politics/three-sources-of-marxism.md",
-    "politics/communism-teachers.md",
-    "politics/communism.md",
-    "politics/books.md"
+    "politics/communism-teachers.md"
   ]
 }
