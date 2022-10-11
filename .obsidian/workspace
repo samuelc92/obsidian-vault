@@ -128,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "073924825b2d2071",
+  "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
+    "design-patterns/state-pattern.md",
+    "functional/functors.md",
     "functional/functional-programming-books.md",
     "politics/books.md",
     "politics/socialism.md",
@@ -137,8 +139,6 @@
     "politics/what-is-communism.md",
     "politics/marxist-political-economy.md",
     "politics/what-is-communism-by-stalin.md",
-    "politics/what-is-communism-by-engels.md",
-    "politics/three-sources-of-marxism.md",
-    "politics/communism-teachers.md"
+    "politics/what-is-communism-by-engels.md"
   ]
 }
