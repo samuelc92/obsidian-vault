@@ -1,7 +1,20 @@
-Functors are things that can be mapped over things, like `Lists`, `Maybe`, `trees`, and such. So a Functor maps over a thing applying a function(transformation) on it. When we call `fmap (+3) [1,2,3] (List-Functor)`, the function(transformation) `(+3)` is applied in each element of the list. Another example is mapping over functions, when we call `fmap (+3) (*3)`, the function(transformation) `(+3)` is applied in to the eventual output of `(*3)`, which is just a composition `fmap (+3) (*3)` is equal `(+3) . (*3)`. The result is still a function, only when we give a number, it will be applied to the functions.
+Functors are things that can be mapped over things, like `Lists`, `Maybe`, `trees`, and such. So a Functor maps over a thing applying a function(transformation) on it. When we call `fmap (+3) [1,2,3] (List-Functor)`, the function(transformation) `(+3)` is applied in each element of the list. Another example is mapping over functions, when we call `fmap (+3) (*3)`, the function(transformation) `(+3)` is applied in to the eventual output of `(*3)`, which is just a composition `fmap (+3) (*3)` is equal `(+3) . (*3)`. The result is still a function, only when we give a number, it will be applied to the functions. The class definition:
+
+```haskell
+class Functor f where
+  fmap :: (a -> b) -> f a -> f b
+```
 
 
-Functors should satisfy some laws.
+Exampe of the `Functor` instance implementation for `Maybe`:
+
+```haskell
+instance Functor Maybe where
+  fmap f (Just x) = Just (f x)
+  fmap f Nothing = Nothing
+```
+
+Functors MUST satisfy the following laws.
 
 ## Functor Laws
  - If we map the `id` (identity function) function over a functor, the functor that we get back should be the same as the original functor. That means if we map `id` function over a Functor, it should be the same as just calling `id` with the same functor.
