@@ -27,3 +27,10 @@ With [[functors]], you can just map a function over a functor and then you can't
 ```haskell
 pure (+) <*> Just 3 <*> Just 5
 ```
+
+## Laws
+- `pure f <*> x = fmap f x`
+- `pure id <*> v = v `
+- `pure (.) <*> u <*> v <*> w = u <*> (v <*> w)`
+- `pure f <*> pure x = pure (f x)`
+- `u <*> pure y = pure ($ y) <*> u`
