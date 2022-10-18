@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functional/applicative-functors.md",
+            "file": "functional/associativity.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/applicative-functors.md",
+                "file": "functional/associativity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/applicative-functors.md",
+                "file": "functional/associativity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/applicative-functors.md"
+                "file": "functional/associativity.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
-    "functional/functors.md",
+    "functional/monoids.md",
     "functional/applicative-functors.md",
+    "functional/functors.md",
     "design-patterns/state-pattern.md",
     "functional/functional-programming-books.md",
     "politics/books.md",
     "politics/socialism.md",
     "politics/socio-economic-birth-of-marxism.md",
     "politics/what-is-communism.md",
-    "politics/marxist-political-economy.md",
-    "politics/what-is-communism-by-stalin.md"
+    "politics/marxist-political-economy.md"
   ]
 }
