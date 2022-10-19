@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "functional/associativity.md",
+            "file": "functional/monoids.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/associativity.md",
+                "file": "functional/monoids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/associativity.md",
+                "file": "functional/monoids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/associativity.md"
+                "file": "functional/monoids.md"
               }
             }
           }
@@ -130,6 +130,7 @@
   },
   "active": "4fa0e426c3df7271",
   "lastOpenFiles": [
+    "functional/associativity.md",
     "functional/monoids.md",
     "functional/applicative-functors.md",
     "functional/functors.md",
@@ -138,7 +139,6 @@
     "politics/books.md",
     "politics/socialism.md",
     "politics/socio-economic-birth-of-marxism.md",
-    "politics/what-is-communism.md",
-    "politics/marxist-political-economy.md"
+    "politics/what-is-communism.md"
   ]
 }
