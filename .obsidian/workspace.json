@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "4fa0e426c3df7271",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "functional/applicative-functors.md",
-            "mode": "source",
-            "source": false
+        "id": "7f5c3d05bef05de9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fa0e426c3df7271",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functional/applicative-functors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20a4708cc9df6fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functional/monads.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3ee37d9fbad9ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-computing/reliability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/applicative-functors.md",
+                "file": "distributed-computing/reliability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/applicative-functors.md",
+                "file": "distributed-computing/reliability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/applicative-functors.md"
+                "file": "distributed-computing/reliability.md"
               }
             }
           }
@@ -128,17 +161,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4fa0e426c3df7271",
+  "active": "af3ee37d9fbad9ed",
   "lastOpenFiles": [
-    "functional/functors.md",
+    "functional/monads.md",
     "functional/monoids.md",
-    "functional/associativity.md",
     "functional/applicative-functors.md",
+    "functional/functors.md",
+    "functional/associativity.md",
     "design-patterns/state-pattern.md",
     "functional/functional-programming-books.md",
     "politics/books.md",
     "politics/socialism.md",
-    "politics/socio-economic-birth-of-marxism.md",
-    "politics/what-is-communism.md"
+    "politics/socio-economic-birth-of-marxism.md"
   ]
 }
