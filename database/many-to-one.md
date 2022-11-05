@@ -1,0 +1,1 @@
+Many-to-one relationship don't fit nicely into the document model. In relational databases, it's normal to refer to rows in other table by IDs, because joins are easy. In document databases, joins are not needed for one-to-many tree structures, and support for joins is often weak.

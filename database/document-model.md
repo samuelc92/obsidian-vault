@@ -1,0 +1,1 @@
+The main arguments in favor of the document data model are schema flexibility, better performance due to locality, and that for some applications it is closer to the data structures used by the application. The relational model counters by providing better suport for joins, and many-to-one and many-to-many relationships.
