@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32fe2bc57e42cd66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-computing/scalability.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed-computing/reliability.md",
+                "file": "distributed-computing/scalability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "distributed-computing/reliability.md",
+                "file": "distributed-computing/scalability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed-computing/reliability.md"
+                "file": "distributed-computing/scalability.md"
               }
             }
           }
@@ -161,8 +173,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af3ee37d9fbad9ed",
+  "active": "32fe2bc57e42cd66",
   "lastOpenFiles": [
+    "distributed-computing/reliability.md",
     "functional/monads.md",
     "functional/monoids.md",
     "functional/applicative-functors.md",
@@ -171,7 +184,6 @@
     "design-patterns/state-pattern.md",
     "functional/functional-programming-books.md",
     "politics/books.md",
-    "politics/socialism.md",
-    "politics/socio-economic-birth-of-marxism.md"
+    "politics/socialism.md"
   ]
 }
