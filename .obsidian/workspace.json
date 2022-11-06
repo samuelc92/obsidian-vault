@@ -11,11 +11,28 @@
             "id": "5d9cb37c5176bfd7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "data-structure/merge-sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "400497372416c24a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/sstable.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "database/sstable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "database/sstable.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "database/sstable.md"
+              }
             }
           }
         ]
@@ -128,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5d9cb37c5176bfd7",
+  "active": "400497372416c24a",
   "lastOpenFiles": [
+    "data-structure/merge-sort.md",
     "database/hash-indexes.md",
     "database/graph-like-data-models.md",
     "functional/books.md",
@@ -138,7 +160,6 @@
     "database/document-model.md",
     "database/articles.md",
     "database/many-to-one.md",
-    "functional/monads.md",
-    "distributed-computing/reliability.md"
+    "functional/monads.md"
   ]
 }
