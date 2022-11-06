@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/document-model.md",
+                "file": "books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8775dcfeb86271ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functional/books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/document-model.md",
+                "file": "functional/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/document-model.md",
+                "file": "functional/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/document-model.md"
+                "file": "functional/books.md"
               }
             }
           }
@@ -173,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e1ffcda29ead5405",
+  "active": "8775dcfeb86271ed",
   "lastOpenFiles": [
+    "books.md",
+    "functional/applicative-functors.md",
+    "database/document-model.md",
     "database/articles.md",
     "database/many-to-one.md",
     "functional/monads.md",
     "distributed-computing/reliability.md",
     "distributed-computing/latency-and-response-time.md",
     "distributed-computing/scalability.md",
-    "functional/monoids.md",
-    "functional/applicative-functors.md",
-    "functional/functors.md",
-    "functional/associativity.md"
+    "functional/monoids.md"
   ]
 }

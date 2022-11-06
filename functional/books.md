@@ -1,0 +1,2 @@
+- Data Oriented Programming by Yehonathan Sharvit;
+- Grokking Simplicity by Eric Normand;
