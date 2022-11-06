@@ -1,0 +1,8 @@
+Index for Key-Value data.
+
+- Keep in memory hash map where every key is mapped to a byte offset in the data file - the location at which the value can be found. Whenever you append a new key-value pair to the file, you also update the hash map to reflect the offset of the data you just wrote. When you want to look up a value, use the hash map to find the offset in the data file, seek to that location, and read the value.
+- To avoid running out of disk space a good solution is to break the log into segments of a certain size by closing a segment file when it reaches a certain size, and making subsequent writes to a new segment file. We can than performing compaction on these segments, throwing away duplicate keys in the log, and keeping only the most recent update for each key. Moreover, since compaction often makes segments much smaller, we can also merge several segments together at the same time as performing the compaction.
+- Each segment now has its own in-memory hash table, mapping keys to file offsets. In order to find the value for a key, we first check the most recent segment's hash map, if the key is not present we check the secont-most-recent segment, and so on.
+- However, the hash table index also has limitations:
+	- The hash table must fit in memory, so if you have a very large number of keys, you're out of luck.
+	- Range queries are not efficient. For example, you cannot easily scan over all keys between 'Kitty0000' and 'Kitty9999', you would have to look up each key individually in the hash maps.
