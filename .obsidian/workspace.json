@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7f5c3d05bef05de9",
+        "id": "5e804d4cd0883f25",
         "type": "tabs",
         "children": [
           {
-            "id": "4fa0e426c3df7271",
+            "id": "ef70df2050c7ada6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional/applicative-functors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20a4708cc9df6fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional/monads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de2f3bc8798d0ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/articles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1ffcda29ead5405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8775dcfeb86271ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional/books.md",
+                "file": "database/graph-like-data-models.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/books.md",
+                "file": "database/graph-like-data-models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/books.md",
+                "file": "database/graph-like-data-models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/books.md"
+                "file": "database/graph-like-data-models.md"
               }
             }
           }
@@ -185,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8775dcfeb86271ed",
+  "active": "ef70df2050c7ada6",
   "lastOpenFiles": [
+    "functional/books.md",
     "books.md",
     "functional/applicative-functors.md",
     "database/document-model.md",
@@ -195,7 +147,6 @@
     "functional/monads.md",
     "distributed-computing/reliability.md",
     "distributed-computing/latency-and-response-time.md",
-    "distributed-computing/scalability.md",
-    "functional/monoids.md"
+    "distributed-computing/scalability.md"
   ]
 }

@@ -1,0 +1,6 @@
+- The relational model can handle simple cases of many-to-many relationships, but as the connections within your data become more complex, it becomes more natural to start modeling your data as graph.
+- A graph consists of two kinds of objects: vertices (also known as nodes or entites) and edges (also known as relationships). Many kinds of data can be modeled as a graph.
+	- Social graphs: vertices are people, and edges indicate which people know each other.
+	- The web graph: vertices are web pages and, edges indicate HTML links to other pages.
+	- Road or rain networks: vertices are junctions and, edges represent the road of railway lines between them.
+- Graphs are not limited to such homogenous data: and equally powerful use of graphs is to provide a consistent way of storing completely different types of objects in a single datastore. For example, Facebook maintains a single graph with many different types of vertices and edges: vertices represent, people, locations, events, checkins, and comments made by users; edges indicate which people are friends with each other, which checkins happened in which location, who commented on which post, who attended which event, and so on.
