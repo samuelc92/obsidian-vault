@@ -13,6 +13,8 @@ class Monad m where
  fail msg = error msg
 ```
 
+The function `>>=` takes a value with a context (a monadic value) and feeding it to a function that takes a normal value and returns one that has context. 
+
 Example of a Maybe Monads:
 
 ```haskell

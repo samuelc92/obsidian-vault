@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "database/sstable.md",
+                "file": "functional/monads.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/sstable.md",
+                "file": "functional/monads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/sstable.md",
+                "file": "functional/monads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/sstable.md"
+                "file": "functional/monads.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "400497372416c24a",
   "lastOpenFiles": [
+    "database/sstable.md",
     "data-structure/merge-sort.md",
     "database/hash-indexes.md",
     "database/graph-like-data-models.md",
@@ -159,7 +160,6 @@
     "functional/applicative-functors.md",
     "database/document-model.md",
     "database/articles.md",
-    "database/many-to-one.md",
-    "functional/monads.md"
+    "database/many-to-one.md"
   ]
 }
