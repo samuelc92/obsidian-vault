@@ -1,0 +1,1 @@
+The RPC model tries to make a request to a remote network service look the same as calling a function or method in your programming language.

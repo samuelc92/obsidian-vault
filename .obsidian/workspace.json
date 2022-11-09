@@ -11,11 +11,28 @@
             "id": "6d52f4796035a822",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "devops/links.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afde4999a7e4debe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/rpc.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "back-end/rpc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "back-end/rpc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "back-end/rpc.md"
+              }
             }
           }
         ]
@@ -128,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6d52f4796035a822",
+  "active": "afde4999a7e4debe",
   "lastOpenFiles": [
+    "devops/links.md",
+    "back-end/rest.md",
+    "devops/books.md",
     "database/column-oritented-storage.md",
     "data-structure/b-tree.md",
     "database/clustered-index.md",
     "database/row-oriented-fashion.md",
     "data-structure/merge-sort.md",
     "functional/monads.md",
-    "database/sstable.md",
-    "database/hash-indexes.md",
-    "database/graph-like-data-models.md",
-    "functional/books.md"
+    "database/sstable.md"
   ]
 }
