@@ -1,0 +1,1 @@
+All the values from one row of a table are stored next to each other. Document database ([[document-model]]) are similar: and entire document is typically stored as one continous sequence of bytes.

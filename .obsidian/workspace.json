@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2c8fbbcb87c39f35",
+        "id": "ee8077d42ff53ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6668be77cdd87a9",
+            "id": "6d52f4796035a822",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "data-structure/b-tree.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e091e6834952910a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/clustered-index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/clustered-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/clustered-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "database/clustered-index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -149,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e091e6834952910a",
+  "active": "6d52f4796035a822",
   "lastOpenFiles": [
+    "database/column-oritented-storage.md",
     "data-structure/b-tree.md",
+    "database/clustered-index.md",
+    "database/row-oriented-fashion.md",
     "data-structure/merge-sort.md",
     "functional/monads.md",
     "database/sstable.md",
     "database/hash-indexes.md",
     "database/graph-like-data-models.md",
-    "functional/books.md",
-    "books.md",
-    "functional/applicative-functors.md",
-    "database/document-model.md"
+    "functional/books.md"
   ]
 }
