@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e091e6834952910a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "database/clustered-index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-structure/b-tree.md",
+                "file": "database/clustered-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-structure/b-tree.md",
+                "file": "database/clustered-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-structure/b-tree.md"
+                "file": "database/clustered-index.md"
               }
             }
           }
@@ -136,8 +149,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f6668be77cdd87a9",
+  "active": "e091e6834952910a",
   "lastOpenFiles": [
+    "data-structure/b-tree.md",
     "data-structure/merge-sort.md",
     "functional/monads.md",
     "database/sstable.md",
@@ -146,7 +160,6 @@
     "functional/books.md",
     "books.md",
     "functional/applicative-functors.md",
-    "database/document-model.md",
-    "database/articles.md"
+    "database/document-model.md"
   ]
 }
