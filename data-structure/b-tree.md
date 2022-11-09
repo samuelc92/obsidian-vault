@@ -18,3 +18,9 @@ A B-tree of order 4 is shown below in the image:
 
 - It is used to access data stored on discs in large databases;
 - Using a B-Tree, you can search for data in a data set in significantly less time;
+
+## Database context
+
+Like [[sstable]], B-Tree keep key-value pairs sorted by key, which allow efficient key-value lookups and range queries. B-Tree breaks the database down into fixed-size blocks or pages, and read or write one page at a time, one page can have a reference to another. 
+
+If you want to update the value for an existing key in a B-tree, you search for the leaf page containing that key, change the value in that page, and write the page back to disk. If you want to add a new key, you need to find the page whose range encompasses the new key and add it to that page. If there isn't enough free space in the page to accomodate the new key, it is split into two half-full pages and, the parent page is updated.

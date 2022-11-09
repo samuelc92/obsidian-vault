@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "325d02829e05090c",
+        "id": "2c8fbbcb87c39f35",
         "type": "tabs",
         "children": [
           {
-            "id": "5d9cb37c5176bfd7",
+            "id": "f6668be77cdd87a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data-structure/merge-sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "400497372416c24a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional/monads.md",
+                "file": "data-structure/b-tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/monads.md",
+                "file": "data-structure/b-tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/monads.md",
+                "file": "data-structure/b-tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/monads.md"
+                "file": "data-structure/b-tree.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "400497372416c24a",
+  "active": "f6668be77cdd87a9",
   "lastOpenFiles": [
-    "database/sstable.md",
     "data-structure/merge-sort.md",
+    "functional/monads.md",
+    "database/sstable.md",
     "database/hash-indexes.md",
     "database/graph-like-data-models.md",
     "functional/books.md",
     "books.md",
     "functional/applicative-functors.md",
     "database/document-model.md",
-    "database/articles.md",
-    "database/many-to-one.md"
+    "database/articles.md"
   ]
 }
