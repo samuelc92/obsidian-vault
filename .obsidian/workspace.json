@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "485ecd44f13d9841",
+        "id": "2ddf0b2b2e5ad218",
         "type": "tabs",
         "children": [
           {
-            "id": "f7f73c317c1b8095",
+            "id": "1839024ec8589bc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed-computing/master-slave-replication.md",
+                "file": "distributed-computing/leaderless-replication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54619e94c27c78c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-computing/kind-of-clocks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed-computing/master-slave-replication.md",
+                "file": "distributed-computing/kind-of-clocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "distributed-computing/master-slave-replication.md",
+                "file": "distributed-computing/kind-of-clocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed-computing/master-slave-replication.md"
+                "file": "distributed-computing/kind-of-clocks.md"
               }
             }
           }
@@ -136,8 +149,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f7f73c317c1b8095",
+  "active": "54619e94c27c78c0",
   "lastOpenFiles": [
+    "distributed-computing/leaderless-replication.md",
+    "distributed-computing/master-slave-replication.md",
     "devops/links.md",
     "back-end/rpc.md",
     "back-end/rest.md",
@@ -145,8 +160,6 @@
     "database/column-oritented-storage.md",
     "data-structure/b-tree.md",
     "database/clustered-index.md",
-    "database/row-oriented-fashion.md",
-    "data-structure/merge-sort.md",
-    "functional/monads.md"
+    "database/row-oriented-fashion.md"
   ]
 }

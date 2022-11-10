@@ -1,0 +1,3 @@
+Modern computers have at least two different kinds of clocks: a time-of-day-clock and -monotonic-clock. 
+- Time-of-day-clocks returns the current date and time according to same calendar.
+- Monotonic-clock is suitable for measuring a duration(time interval), such as timeout or a service's response time. The name comes from the fact that they are guaranteed to always move forward (whereas a time-of-day may jump back in time). The values from two different computers (also from different CPU) don't mean the same thing. 
