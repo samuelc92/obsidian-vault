@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8077d42ff53ca5",
+        "id": "485ecd44f13d9841",
         "type": "tabs",
         "children": [
           {
-            "id": "6d52f4796035a822",
+            "id": "f7f73c317c1b8095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/links.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afde4999a7e4debe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/rpc.md",
+                "file": "distributed-computing/master-slave-replication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/rpc.md",
+                "file": "distributed-computing/master-slave-replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/rpc.md",
+                "file": "distributed-computing/master-slave-replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/rpc.md"
+                "file": "distributed-computing/master-slave-replication.md"
               }
             }
           }
@@ -149,9 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "afde4999a7e4debe",
+  "active": "f7f73c317c1b8095",
   "lastOpenFiles": [
     "devops/links.md",
+    "back-end/rpc.md",
     "back-end/rest.md",
     "devops/books.md",
     "database/column-oritented-storage.md",
@@ -159,7 +147,6 @@
     "database/clustered-index.md",
     "database/row-oriented-fashion.md",
     "data-structure/merge-sort.md",
-    "functional/monads.md",
-    "database/sstable.md"
+    "functional/monads.md"
   ]
 }
