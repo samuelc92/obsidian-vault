@@ -1,0 +1,1 @@
+Making domain concepts explicit in your code means other programmers can gather the intent of the code much more easily than by trying to retrofit an algorithm into what they understand about a domain. It also means that when the domain evolves, you are in a good position to evolve the code.
