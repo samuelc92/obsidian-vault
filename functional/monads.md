@@ -24,3 +24,9 @@ instance Monad Maybe where
   Just x >>= f  = f x
   fail _        = Nothing
 ```
+
+## Laws
+
+- Left Identity:  `return x >>= f == f x`
+- Right Identity: `x >>== return == x`
+- [[associativity]]: `(m >>= f) >>= g == m >>= (\x -> f x >>= g)`

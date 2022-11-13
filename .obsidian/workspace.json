@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/code-reviews.md",
+                "file": "functional/monads.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/code-reviews.md",
+                "file": "functional/monads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/code-reviews.md",
+                "file": "functional/monads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/code-reviews.md"
+                "file": "functional/monads.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "7480e89c00ff9b52",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/code-reviews.md",
     "97-thing-programmer-should-know/code-layout-matters.md",
     "97-thing-programmer-should-know/the-boy-scout-rule.md",
     "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
@@ -146,7 +147,6 @@
     "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
     "functional/monads.md",
     "distributed-computing/kind-of-clocks.md",
-    "functional/associativity.md",
-    "functional/monoids.md"
+    "functional/associativity.md"
   ]
 }
