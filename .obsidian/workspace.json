@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9e702cd636072f28",
+        "id": "517f4e2ad78568b1",
         "type": "tabs",
         "children": [
           {
-            "id": "11c263b39ca98dce",
+            "id": "7480e89c00ff9b52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/the-boy-scout-rule.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b02cb79d2607bea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
+                "file": "97-thing-programmer-should-know/code-reviews.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
+                "file": "97-thing-programmer-should-know/code-reviews.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
+                "file": "97-thing-programmer-should-know/code-reviews.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/code-in-language-of-the-domain.md"
+                "file": "97-thing-programmer-should-know/code-reviews.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b02cb79d2607bea",
+  "active": "7480e89c00ff9b52",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/code-layout-matters.md",
     "97-thing-programmer-should-know/the-boy-scout-rule.md",
+    "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
     "97-thing-programmer-should-know/before-you-refactor.md",
     "97-thing-programmer-should-know/beware-the-share.md",
     "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
     "functional/monads.md",
     "distributed-computing/kind-of-clocks.md",
     "functional/associativity.md",
-    "functional/monoids.md",
-    "functional/applicative-functors.md",
-    "avl-tree.jpg"
+    "functional/monoids.md"
   ]
 }
