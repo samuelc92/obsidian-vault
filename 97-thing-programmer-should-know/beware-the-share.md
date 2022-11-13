@@ -1,0 +1,1 @@
+Check the software context before starting develop new feature that will be shared in the codebase, because you can create dependence between parts instead of improve the code.

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46bd6a58648e03c8",
+        "id": "9e702cd636072f28",
         "type": "tabs",
         "children": [
           {
-            "id": "d7e3fe4adf8b9552",
+            "id": "11c263b39ca98dce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97-thing-programmer-should-know/before-you-refactor.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/before-you-refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/before-you-refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "97-thing-programmer-should-know/before-you-refactor.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7e3fe4adf8b9552",
+  "active": "11c263b39ca98dce",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/before-you-refactor.md",
+    "97-thing-programmer-should-know/beware-the-share.md",
     "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
     "functional/monads.md",
     "distributed-computing/kind-of-clocks.md",
@@ -145,8 +139,6 @@
     "functional/monoids.md",
     "functional/applicative-functors.md",
     "avl-tree.jpg",
-    "event-streams/message-brokers.md",
-    "Untitled.md",
-    "distributed-computing/casuality.md"
+    "event-streams/message-brokers.md"
   ]
 }
