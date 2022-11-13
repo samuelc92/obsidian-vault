@@ -1,0 +1,6 @@
+- The best approach for restructuring starts by taking stock of the existing codebase and the tests written agains that code: This will help you understand the strengths and weaknesses of the code.
+- Avoid the temptation to rewrite everything. It is best to reuse as much code as possible: Throwing away the old code that is in production, means that you are throwing away months (or years) of tested code that may have certain workarounds and bug fixes you aren't aware of.
+- Many incremental changes are betten than one massive change: Incremental changes allows you to gauge the impact on the system more easily through feedback, such as from tests.
+- Personal preferences and ego shouldn't get in the way: It is not a valid reason to change the code just because you did not like the style or structure of the code. Thinking you could do a better job than the previous programmers is not a valid reason either.
+- New technology is insufficient reason to refactor: Unless framework will result in significant improvements in functionality maintainability, or productivity.
+- Remember that humans make mistakes: Restructuring will not always guarantee that the new code will be better.

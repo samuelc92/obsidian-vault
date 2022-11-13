@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ddf0b2b2e5ad218",
+        "id": "46bd6a58648e03c8",
         "type": "tabs",
         "children": [
           {
-            "id": "1839024ec8589bc7",
+            "id": "d7e3fe4adf8b9552",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed-computing/leaderless-replication.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54619e94c27c78c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional/monads.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "22e55eba0d09fcbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
+                "file": "97-thing-programmer-should-know/before-you-refactor.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
+                "file": "97-thing-programmer-should-know/before-you-refactor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
+                "file": "97-thing-programmer-should-know/before-you-refactor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/beauty-is-in-simplicity.md"
+                "file": "97-thing-programmer-should-know/before-you-refactor.md"
               }
             }
           }
@@ -161,8 +136,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22e55eba0d09fcbf",
+  "active": "d7e3fe4adf8b9552",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
     "functional/monads.md",
     "distributed-computing/kind-of-clocks.md",
     "functional/associativity.md",
@@ -171,7 +147,6 @@
     "avl-tree.jpg",
     "event-streams/message-brokers.md",
     "Untitled.md",
-    "distributed-computing/casuality.md",
-    "distributed-computing/linearizable-systems.md"
+    "distributed-computing/casuality.md"
   ]
 }
