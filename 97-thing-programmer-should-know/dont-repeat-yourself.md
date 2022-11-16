@@ -1,0 +1,3 @@
+The principle was formulatedby Andy Hunt and Dave Thomas in The Pragmatic Programmer. The developer who learns to recognize duplication, and understands how eliminate it through appropriate practice and proper abstraction, can produce much cleaner code than one who continuously infects the application with unnecessary repetition.
+
+DRY requires that "every piece of knowledge" must have a single, unambiguous, authoritative representation within a system".

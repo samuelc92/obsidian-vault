@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7d76df64bf267013",
+            "id": "8d89bff8c8bd587f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
+                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
+                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
+                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md"
+                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d76df64bf267013",
+  "active": "8d89bff8c8bd587f",
   "lastOpenFiles": [
     "functional/functors.md",
+    "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
+    "97-thing-programmer-should-know/dont-ignore-that-error.md",
     "97-thing-programmer-should-know/distinguish-business-exceptions.md",
     "97-thing-programmer-should-know/comment-only-code-not-say.md",
     "functional/applicative-functors.md",
     "functional/associativity.md",
     "functional/monads.md",
     "97-thing-programmer-should-know/code-reviews.md",
-    "97-thing-programmer-should-know/code-layout-matters.md",
-    "97-thing-programmer-should-know/the-boy-scout-rule.md",
-    "97-thing-programmer-should-know/code-in-language-of-the-domain.md"
+    "97-thing-programmer-should-know/code-layout-matters.md"
   ]
 }
