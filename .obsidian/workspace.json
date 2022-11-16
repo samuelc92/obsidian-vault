@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional/monads.md",
+                "file": "functional/functors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a5a286059be8dfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "97-thing-programmer-should-know/comment-only-code-not-say.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "functional/monads.md",
+                "file": "97-thing-programmer-should-know/comment-only-code-not-say.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "functional/monads.md",
+                "file": "97-thing-programmer-should-know/comment-only-code-not-say.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "functional/monads.md"
+                "file": "97-thing-programmer-should-know/comment-only-code-not-say.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7480e89c00ff9b52",
+  "active": "5a5a286059be8dfc",
   "lastOpenFiles": [
+    "functional/functors.md",
+    "functional/applicative-functors.md",
+    "functional/associativity.md",
+    "functional/monads.md",
     "97-thing-programmer-should-know/code-reviews.md",
     "97-thing-programmer-should-know/code-layout-matters.md",
     "97-thing-programmer-should-know/the-boy-scout-rule.md",
     "97-thing-programmer-should-know/code-in-language-of-the-domain.md",
     "97-thing-programmer-should-know/before-you-refactor.md",
-    "97-thing-programmer-should-know/beware-the-share.md",
-    "97-thing-programmer-should-know/beauty-is-in-simplicity.md",
-    "functional/monads.md",
-    "distributed-computing/kind-of-clocks.md",
-    "functional/associativity.md"
+    "97-thing-programmer-should-know/beware-the-share.md"
   ]
 }
