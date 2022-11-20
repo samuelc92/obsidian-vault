@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4abac197a434b168",
+        "id": "70f8e8856094d16b",
         "type": "tabs",
         "children": [
           {
-            "id": "c2c1d41fc8a0bd96",
+            "id": "1feefd7195823ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
+                "file": "97-thing-programmer-should-know/pair-program.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
+                "file": "97-thing-programmer-should-know/pair-program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
+                "file": "97-thing-programmer-should-know/pair-program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md"
+                "file": "97-thing-programmer-should-know/pair-program.md"
               }
             }
           }
@@ -136,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c2c1d41fc8a0bd96",
+  "active": "1feefd7195823ac5",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/let-your-project-speak.md",
+    "97-thing-programmer-should-know/know-how-use-cli-tools.md",
     "97-thing-programmer-should-know/keep-the-build-clean.md",
     "97-thing-programmer-should-know/hard-work-not-pay-off.md",
     "97-thing-programmer-should-know/floating-point-numbers-arent.md",
@@ -145,8 +147,6 @@
     "97-thing-programmer-should-know/dont-repeat-yourself.md",
     "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
     "97-thing-programmer-should-know/dont-ignore-that-error.md",
-    "97-thing-programmer-should-know/distinguish-business-exceptions.md",
-    "97-thing-programmer-should-know/comment-only-code-not-say.md",
-    "functional/applicative-functors.md"
+    "97-thing-programmer-should-know/distinguish-business-exceptions.md"
   ]
 }
