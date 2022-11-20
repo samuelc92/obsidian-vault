@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ffbbd6499968ff89",
+        "id": "4abac197a434b168",
         "type": "tabs",
         "children": [
           {
-            "id": "e45f0acdcab693ce",
+            "id": "c2c1d41fc8a0bd96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
+                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
+                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
+                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md"
+                "file": "97-thing-programmer-should-know/know-how-use-cli-tools.md"
               }
             }
           }
@@ -136,8 +136,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e45f0acdcab693ce",
+  "active": "c2c1d41fc8a0bd96",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/keep-the-build-clean.md",
+    "97-thing-programmer-should-know/hard-work-not-pay-off.md",
     "97-thing-programmer-should-know/floating-point-numbers-arent.md",
     "functional/functors.md",
     "97-thing-programmer-should-know/dont-repeat-yourself.md",
@@ -145,8 +147,6 @@
     "97-thing-programmer-should-know/dont-ignore-that-error.md",
     "97-thing-programmer-should-know/distinguish-business-exceptions.md",
     "97-thing-programmer-should-know/comment-only-code-not-say.md",
-    "functional/applicative-functors.md",
-    "functional/associativity.md",
-    "functional/monads.md"
+    "functional/applicative-functors.md"
   ]
 }

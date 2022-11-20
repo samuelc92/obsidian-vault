@@ -1,0 +1,1 @@
+Keeping the build clean is not just about keeping it free of compilation errors or test failures: warnings are also important and critical part of code hygiene.

@@ -1,0 +1,3 @@
+By working with command-line build tools, you will learn a lot more about whtat the tools are doing when your project is being built. After all, a well-designed IDE is just a graphical front-end to a set of command-line tools.
+
+In addition to improving your understanding of the build process, there are some tasks that can be performed more easily or more efficiently with command-line tools than with an IDE. For example, the search and replace capabilities provided by the 'grep' and 'sed' utilities are often more powerful than those found in IDEs.
