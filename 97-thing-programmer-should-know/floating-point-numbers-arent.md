@@ -1,0 +1,1 @@
+Floating-point numbers are not "real numbers" in the mathematical sense. Real numbers have infinite precison and are therefore continuous and non-lossy. Floating-point numbers have limited precision, so they are finite, and they resemble "badly-behaved" integers, because they are not evenly scaped throughout their range.

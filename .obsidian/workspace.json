@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "517f4e2ad78568b1",
+        "id": "ffbbd6499968ff89",
         "type": "tabs",
         "children": [
           {
-            "id": "7480e89c00ff9b52",
+            "id": "e45f0acdcab693ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "functional/functors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d89bff8c8bd587f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
+                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
+                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md",
+                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/dont-repeat-yourself.md"
+                "file": "97-thing-programmer-should-know/hard-work-not-pay-off.md"
               }
             }
           }
@@ -149,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d89bff8c8bd587f",
+  "active": "e45f0acdcab693ce",
   "lastOpenFiles": [
+    "97-thing-programmer-should-know/floating-point-numbers-arent.md",
     "functional/functors.md",
+    "97-thing-programmer-should-know/dont-repeat-yourself.md",
     "97-thing-programmer-should-know/do-lots-of-deliberate-practice.md",
     "97-thing-programmer-should-know/dont-ignore-that-error.md",
     "97-thing-programmer-should-know/distinguish-business-exceptions.md",
     "97-thing-programmer-should-know/comment-only-code-not-say.md",
     "functional/applicative-functors.md",
     "functional/associativity.md",
-    "functional/monads.md",
-    "97-thing-programmer-should-know/code-reviews.md",
-    "97-thing-programmer-should-know/code-layout-matters.md"
+    "functional/monads.md"
   ]
 }
