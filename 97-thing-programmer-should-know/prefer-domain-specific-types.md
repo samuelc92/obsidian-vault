@@ -1,0 +1,5 @@
+Prefer Domain-Specific Types to Primitive Types: On 23rd September 19999 the $327.6 million Mars Climate Orbiter was lost while entering orbit around Mars due to software  error back on Earth. The error was later called the metric mix-up. The ground station software was working in pounds while the spacecraft expected newtons, leaing the ground station to underestimate the power of the spacecraft's thrusters by a factor of 4.45. This is one of many examples of software failures that could have been prevented. Using domain-specific types adds a lot of value with respect to code quality:
+
+- THe code becomes more readable as it expresses concepts of a domain, not just Float or String;
+- The code becomes more testable as the code encapsulates behavior that is easily testable;
+- The code facilitates reuse across aplications and systems;
