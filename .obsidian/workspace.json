@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae6d3040dafbbb25",
+        "id": "058902e5601564dc",
         "type": "tabs",
         "children": [
           {
-            "id": "7d1b571b5311f0be",
+            "id": "89260bb42121a2a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/prefer-domain-specific-types.md",
+                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/prefer-domain-specific-types.md",
+                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/prefer-domain-specific-types.md",
+                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/prefer-domain-specific-types.md"
+                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7d1b571b5311f0be",
+  "active": "89260bb42121a2a9",
   "lastOpenFiles": [
-    "97-thing-programmer-should-know/dirty-code-bombs.md",
+    "books.md",
+    "back-end/books.md",
+    "97-thing-programmer-should-know/test-precisely-and-concretely.md",
+    "97-thing-programmer-should-know/test-for-required-behavior.md",
     "97-thing-programmer-should-know/prefer-domain-specific-types.md",
+    "97-thing-programmer-should-know/dirty-code-bombs.md",
     "97-thing-programmer-should-know/pair-program.md",
     "97-thing-programmer-should-know/let-your-project-speak.md",
     "97-thing-programmer-should-know/know-how-use-cli-tools.md",
-    "97-thing-programmer-should-know/keep-the-build-clean.md",
-    "97-thing-programmer-should-know/hard-work-not-pay-off.md",
-    "97-thing-programmer-should-know/floating-point-numbers-arent.md",
-    "functional/functors.md",
-    "97-thing-programmer-should-know/dont-repeat-yourself.md"
+    "97-thing-programmer-should-know/keep-the-build-clean.md"
   ]
 }

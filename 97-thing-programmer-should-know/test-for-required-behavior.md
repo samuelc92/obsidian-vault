@@ -1,0 +1,3 @@
+A common pitfall in testing is to hard write tests to the specifics of an implementation, where those specifics are incidental and have no bearing on the derised functionality.
+
+Overspecified tests are often a problem with whitebox approaches to unit testing. Whitebox tests use the structure of the code to determine the test cases need. The typical failure made of whitebox testing is that the tests end up asserting that the code does what the code does. SImple restating what is already obvious from the code adds no value and leads to a false sense of progress and security. To be effective, tests need to take a blackbox view of the units under test, sketching out the interface contracts in executable form. Therefore, align tested behavior with required behavior.
