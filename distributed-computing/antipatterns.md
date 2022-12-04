@@ -11,3 +11,7 @@ Antipatterns in distributes systems that should be avoided in the context of cas
 - **Work prompted by failure**: Failure often cause additional work in the system. In particular, a failure in a system with only a few nodes can lead to a lot of additional work (e.g., replication) for the remaining nodes. This can lead to a harmful feedback loop. A common mitigation strategy would be to delay or limit the amount of replication.
 
 - **Long startup times**: After a failover, when a service starts running again it can receive a lot of requests due to the retries, therefore a long startup time can make the service goes down again. To prevent this you should prefer systems with a fast startup time.
+
+## References
+
+https://blog.mi.hdm-stuttgart.de/index.php/2022/03/03/cascading-failures-in-large-scale-distributed-systems/
