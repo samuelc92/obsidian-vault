@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "058902e5601564dc",
+        "id": "60bf306aeb1a5cca",
         "type": "tabs",
         "children": [
           {
-            "id": "89260bb42121a2a9",
+            "id": "7b9cc6c237687264",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
+                "file": "distributed-computing/antipatterns.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d163fb3fe1afc462",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "distributed-computing/circuit-break.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
+                "file": "distributed-computing/antipatterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md",
+                "file": "distributed-computing/antipatterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "97-thing-programmer-should-know/customers-not-mean-what-say.md"
+                "file": "distributed-computing/antipatterns.md"
               }
             }
           }
@@ -136,17 +148,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "89260bb42121a2a9",
+  "active": "7b9cc6c237687264",
   "lastOpenFiles": [
+    "distributed-computing/circuit-break.md",
+    "distributed-computing/antipatterns.md",
+    "distributed-computing/graceful-degradation.md",
+    "distributed-computing/load-shedding.md",
+    "97-thing-programmer-should-know/customers-not-mean-what-say.md",
     "books.md",
     "back-end/books.md",
     "97-thing-programmer-should-know/test-precisely-and-concretely.md",
     "97-thing-programmer-should-know/test-for-required-behavior.md",
-    "97-thing-programmer-should-know/prefer-domain-specific-types.md",
-    "97-thing-programmer-should-know/dirty-code-bombs.md",
-    "97-thing-programmer-should-know/pair-program.md",
-    "97-thing-programmer-should-know/let-your-project-speak.md",
-    "97-thing-programmer-should-know/know-how-use-cli-tools.md",
-    "97-thing-programmer-should-know/keep-the-build-clean.md"
+    "97-thing-programmer-should-know/prefer-domain-specific-types.md"
   ]
 }

@@ -1,0 +1,1 @@
+When a server receives more requests than it support, to keep the server running it starts returning the code *503 (Service unavailable)* to overloads requests priorizing requests individually. 

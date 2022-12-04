@@ -1,0 +1,1 @@
+It is a complex variant of the [[load-shedding]], which means it switches incrementally to lower quality responses for queries. These might be more efficient and faster, however it can increase the complexity of the service. 
