@@ -1,0 +1,2 @@
+- **Event**: the purpose is to alert other parts of a system that something occurred under a specific boundary. An event can be the result of command completion. Events have multiple consumers who reside under different boundaries. Events are represented in the past tense (EmailSent, OrderPlaced, PaymentReserved, etc.).
+- **Commands**: the purpose is to invoke a behavior related to a business logic within a specific boundary. Commands have a single consumer. They are represented by a verb (SendEmail, PlaceOrder, ReserverPayment, etc.).
