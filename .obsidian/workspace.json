@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a6d9c092cff9b7",
+        "id": "710acc98a0f23f40",
         "type": "tabs",
         "children": [
           {
-            "id": "be8525c47c5e9864",
+            "id": "479174aa942b6583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c73bd49efa14cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "devops/kubernetes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "553c4c83a24766f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "csharp/async-await.md",
+                "file": "books.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:best-pratict",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -119,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/books.md",
+                "file": "books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/books.md",
+                "file": "books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/books.md"
+                "file": "books.md"
               }
             }
           }
@@ -180,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "abf3f7dadde9886d",
+  "active": "479174aa942b6583",
   "lastOpenFiles": [
+    "devops/books.md",
     "devops/kubernetes.md",
     "csharp/async-await.md",
     "csharp",
     "devops/kubernetes-commands.md",
     "devops/kubernetes-cluster-kind.md",
     "devops/container.md",
-    "devops/books.md",
     "devops/links.md",
     "back-end/rpc.md",
     "back-end/rest.md",
