@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books.md",
+                "file": "back-end/books.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
+                "file": "back-end/books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books.md",
+                "file": "back-end/books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md"
+                "file": "back-end/books.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "479174aa942b6583",
   "lastOpenFiles": [
+    "books.md",
     "devops/books.md",
     "devops/kubernetes.md",
     "csharp/async-await.md",
@@ -169,7 +170,6 @@
     "back-end/books.md",
     "aws/aws-step-function.md",
     "aws",
-    "books.md",
     "distributed-computing/circuit-break.md",
     "distributed-computing/antipatterns.md",
     "distributed-computing/graceful-degradation.md",
