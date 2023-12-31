@@ -1,3 +1,11 @@
 - Art of Computer Programming by Donald Knuth's
 - A Philosophy of Software Design
 - The Programmer's Brain  - What every programmer needs to know about cognition
+- Communication Patterns
+- Architecture Modernization
+- Team topologies Academy
+- Platform Strategy
+- Learning DDD
+- Adaptive Systems with Domain-Driven Design, Wardley Mapping, and Team Topologies
+- Tidy First?
+- Make time
