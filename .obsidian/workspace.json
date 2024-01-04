@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4a5af571a4cd685",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "functional/algebraic-data-type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/books.md",
+                "file": "functional/algebraic-data-type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/books.md",
+                "file": "functional/algebraic-data-type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/books.md"
+                "file": "functional/algebraic-data-type.md"
               }
             }
           }
@@ -154,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ab36165dd166c91",
+  "active": "d4a5af571a4cd685",
   "lastOpenFiles": [
     "back-end/books.md",
+    "functional/algebraic-data-type.md",
     "books.md",
     "devops/books.md",
     "devops/kubernetes.md",
