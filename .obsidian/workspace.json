@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ab36165dd166c91",
+            "id": "4ee4c9344ecc1c06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/books.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4a5af571a4cd685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "functional/monoids.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e31e58b5e02f7958",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "database/articles.md",
+                "file": "csharp/maintainable-app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "database/articles.md",
+                "file": "csharp/maintainable-app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "database/articles.md",
+                "file": "csharp/maintainable-app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "database/articles.md"
+                "file": "csharp/maintainable-app.md"
               }
             }
           }
@@ -179,20 +154,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e31e58b5e02f7958",
+  "active": "4ee4c9344ecc1c06",
   "lastOpenFiles": [
-    "functional/monads.md",
+    "functional/monoids.md",
+    "csharp/async-await.md",
+    "database/articles.md",
+    "back-end/books.md",
+    "csharp/maintainable-app.md",
     "functional/functors.md",
-    "functional/functional-programming-books.md",
     "functional/books.md",
-    "functional/associativity.md",
+    "functional/functional-programming-books.md",
     "functional/applicative-functors.md",
     "functional/algebraic-data-type.md",
-    "back-end/books.md",
+    "infra/ipv4.md",
+    "infra",
+    "functional/monads.md",
+    "functional/associativity.md",
     "books.md",
     "devops/books.md",
     "devops/kubernetes.md",
-    "csharp/async-await.md",
     "csharp",
     "devops/kubernetes-commands.md",
     "devops/kubernetes-cluster-kind.md",
@@ -204,10 +184,6 @@
     "aws",
     "distributed-computing/circuit-break.md",
     "distributed-computing/antipatterns.md",
-    "distributed-computing/graceful-degradation.md",
-    "distributed-computing/load-shedding.md",
-    "97-thing-programmer-should-know/customers-not-mean-what-say.md",
-    "97-thing-programmer-should-know/test-precisely-and-concretely.md",
-    "97-thing-programmer-should-know/test-for-required-behavior.md"
+    "distributed-computing/graceful-degradation.md"
   ]
 }
