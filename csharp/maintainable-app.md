@@ -61,9 +61,16 @@ public class A {
 		```csharp
 		builder.Host.UseDefaultServiceProvider(config => 
 		{
+			// When build IoC containers
 			config.ValidateOnBuild = true;
 		})
 ```
 
 - Automate Tests
 	- Use FluentAssertions for assertions
+- Central Package Management
+	- Added in .NET 6
+	- Create Directory.Packages.props at the root and define packages and versions there
+	- Omit Version attribute in PackageReference
+	- All packages will have to omit the Version attribute
+	- Can override with VersionOverride attribute
