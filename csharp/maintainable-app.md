@@ -6,13 +6,12 @@
 	- Integrates with ModelState.IsValid
 	
 - Global Authorize Attribute via Fallback Policy:  always create a Fallback Policy, which is the policy that gets evaluated if no other policy is specified.
-		```csharp
+```csharp
 		builder.Services.AddAuthorization(options =>
 			options.FallbackPolicy = new AuthorizationPolicyBuilder()
 				.RequireAuthenticatedUser()
 				.Builder();)
-		```
-		
+```
 - Logs
 	- Developer focused
 	- Example: log an exception or log response from external API
@@ -27,3 +26,44 @@
 	- Usually for legal, compliance, or traceability reasons
 	- Losing any data is unacceptable
 	- Store audits with the same data store as the data that's being audited
+- Remove the Server Header
+	- By default ASP.NET Core adds a "Server Header" which says "Kestrel"
+	- This exposes to black hats what you´re running
+	- Focuses exploiting known CVEs
+		```csharp
+		builder.WebHost.UseKestrel(options => options.AddServerHeader = false);
+```
+
+- Register Options class directly
+```csharp
+services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
+services.AddSingleton(registeredServices =>
+		registeredServices.GetRequiredService<IOptions<AppSettings>>().Value);
+
+public class A {
+	public AppSettings AppSettings { get; }
+
+	public IndexModel(AppSettings appSettings)
+	{
+		AppSettings = appSettings;	
+	}
+}
+```
+
+- HTTP Security Headers
+	- Tells a browser what extra rules to enforce
+	- Protects against MITM, clickjacking, cross-site scripting, and more.
+	- Nuget package: NetEscapades.AspNetCore.SecurityHeaders
+- ValidateOnBuild
+	- Singletons can only depend on Singletons
+		- The "captive dependency" problem
+		- ASP.NET Core will catch this when running in Development but not other enviroments
+		```csharp
+		builder.Host.UseDefaultServiceProvider(config => 
+		{
+			config.ValidateOnBuild = true;
+		})
+```
+
+- Automate Tests
+	- Use FluentAssertions for assertions
