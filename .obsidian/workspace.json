@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7e44e2995368a8bd",
+        "id": "5d4e9abb6ab84c05",
         "type": "tabs",
         "children": [
           {
-            "id": "4ee4c9344ecc1c06",
+            "id": "4f3e4fa9134ecefa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "csharp/maintainable-app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d0810c4ac1a10f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quotes.md",
+                "file": "distributed-computing/links.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "links",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quotes.md",
+                "file": "distributed-computing/links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "quotes.md",
+                "file": "distributed-computing/links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quotes.md"
+                "file": "distributed-computing/links.md"
               }
             }
           }
@@ -167,9 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d0810c4ac1a10f0",
+  "active": "073924825b2d2071",
   "lastOpenFiles": [
+    "distributed-computing/links.md",
     "csharp/maintainable-app.md",
+    "devops/links.md",
     "quotes.md",
     "functional/monoids.md",
     "csharp/async-await.md",
@@ -191,12 +180,10 @@
     "devops/kubernetes-commands.md",
     "devops/kubernetes-cluster-kind.md",
     "devops/container.md",
-    "devops/links.md",
     "back-end/rpc.md",
     "back-end/rest.md",
     "aws/aws-step-function.md",
     "aws",
-    "distributed-computing/circuit-break.md",
-    "distributed-computing/antipatterns.md"
+    "distributed-computing/circuit-break.md"
   ]
 }
