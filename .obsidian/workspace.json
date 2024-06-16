@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d0810c4ac1a10f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "csharp/maintainable-app.md",
+                "file": "quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "csharp/maintainable-app.md",
+                "file": "quotes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "csharp/maintainable-app.md"
+                "file": "quotes.md"
               }
             }
           }
@@ -154,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ee4c9344ecc1c06",
+  "active": "0d0810c4ac1a10f0",
   "lastOpenFiles": [
-    "functional/monoids.md",
     "csharp/maintainable-app.md",
+    "quotes.md",
+    "functional/monoids.md",
     "csharp/async-await.md",
     "database/articles.md",
     "back-end/books.md",
@@ -183,7 +197,6 @@
     "aws/aws-step-function.md",
     "aws",
     "distributed-computing/circuit-break.md",
-    "distributed-computing/antipatterns.md",
-    "distributed-computing/graceful-degradation.md"
+    "distributed-computing/antipatterns.md"
   ]
 }
