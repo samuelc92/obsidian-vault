@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4e9abb6ab84c05",
+        "id": "30d0facd8a98730a",
         "type": "tabs",
         "children": [
           {
-            "id": "4f3e4fa9134ecefa",
+            "id": "254a0a53026747a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "distributed-computing/links.md",
+                "file": "links.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "distributed-computing/links.md",
+                "file": "links.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "distributed-computing/links.md",
+                "file": "links.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "distributed-computing/links.md"
+                "file": "links.md"
               }
             }
           }
@@ -154,8 +154,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "073924825b2d2071",
+  "active": "254a0a53026747a9",
   "lastOpenFiles": [
+    "links.md",
+    "distributed-computing/linearizable-systems.md",
     "distributed-computing/links.md",
     "csharp/maintainable-app.md",
     "devops/links.md",
@@ -182,8 +184,6 @@
     "devops/container.md",
     "back-end/rpc.md",
     "back-end/rest.md",
-    "aws/aws-step-function.md",
-    "aws",
-    "distributed-computing/circuit-break.md"
+    "aws"
   ]
 }
