@@ -1,0 +1,1 @@
+Static Application Security Testing (SAST): Search for vulnerability in a codebase.

@@ -1,0 +1,1 @@
+Third Party Components (SCA - Software Composition Analysis): Check all components in a software and compare with all known vulnerabilities reported for example from CVE Database.
