@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "30d0facd8a98730a",
+        "id": "f2db98e6a2f3c1e3",
         "type": "tabs",
         "children": [
           {
-            "id": "254a0a53026747a9",
+            "id": "5a588a929a39fea9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links.md",
+                "file": "books.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "books"
+            }
+          },
+          {
+            "id": "04f613e4eaab8e83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "security/threat-modeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "threat-modeling"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -70,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links.md",
+                "file": "books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for books"
             }
           },
           {
@@ -110,10 +137,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links.md",
+                "file": "books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from books"
             }
           },
           {
@@ -124,7 +153,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -133,8 +164,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links.md"
-              }
+                "file": "books.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of books"
             }
           }
         ]
@@ -154,8 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "254a0a53026747a9",
+  "active": "04f613e4eaab8e83",
   "lastOpenFiles": [
+    "books.md",
+    "security/threat-modeling.md",
+    "security",
     "links.md",
     "distributed-computing/linearizable-systems.md",
     "distributed-computing/links.md",
@@ -175,7 +211,6 @@
     "infra",
     "functional/monads.md",
     "functional/associativity.md",
-    "books.md",
     "devops/books.md",
     "devops/kubernetes.md",
     "csharp",
@@ -183,7 +218,6 @@
     "devops/kubernetes-cluster-kind.md",
     "devops/container.md",
     "back-end/rpc.md",
-    "back-end/rest.md",
     "aws"
   ]
 }
