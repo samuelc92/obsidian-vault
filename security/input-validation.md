@@ -1,0 +1,14 @@
+- Conduct data validation on trusted system (Server Side)
+- Specify proper character sets such as UTF-8 for all sources of input
+- Encode data to a common character set before validating
+- All validation failure should result in REJECTION.
+- Determine if the system supports UTF-8 extended character sets
+	- if so, validate after the UTF-8 decoding is completed not before
+- Validate parameters, urls, HTTP headers.
+- Use automated postbacks from JavaScript
+- Validate data from re-directs
+- Validate for expected:
+	- data types
+	- data ranges
+	- data length
+- Validate all input against an allowed/approved list
